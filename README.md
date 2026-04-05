@@ -24,8 +24,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough](https://github.com/user-attachments/assets/c9b214c5-ef35-408f-bf36-59214f9af8a3)
-
 <img src="https://github.com/user-attachments/assets/c9b214c5-ef35-408f-bf36-59214f9af8a3" title="Video Walkthrough" width="800" alt="Video Walkthrough" />
 
 

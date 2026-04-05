@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-[![Video Walkthrough](https://i.imgur.com/1BQrD6n.png)](https://imgur.com/a/1BQrD6n)
-<img src="https://imgur.com/a/1BQrD6n" title="Noah Nguyen Video Walkthrough" width="800" alt="Video Walkthrough" />
+<img src="https://i.imgur.com/1BQrD6n.gif" title="Noah Nguyen Video Walkthrough" width="800" alt="Video Walkthrough" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif

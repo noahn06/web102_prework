@@ -23,7 +23,12 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-<img src="https://imgur.com/a/1Mk0UPz" title="Video Walkthrough" width="800" alt="Video Walkthrough" />
+
+![Video Walkthrough](https://github.com/user-attachments/assets/c9b214c5-ef35-408f-bf36-59214f9af8a3)
+
+<img src="https://github.com/user-attachments/assets/c9b214c5-ef35-408f-bf36-59214f9af8a3" title="Video Walkthrough" width="800" alt="Video Walkthrough" />
+
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
 <!-- Recommended tools:
